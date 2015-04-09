@@ -1,0 +1,77 @@
+<resources>
+
+    <string name="app_name">AMFA</string>
+    <string name="welcome">Welcome to Advanced Messenger :)</string>
+    <string name="title_activity_main">AMFA</string>
+    <string name="sendhint">Enter message</string>
+    <string name="settingslabel">Settings</string>
+    <string name="useridlabel">UserID:</string>
+    <string name="useridhint">example@gmail.com</string>
+    <string name="passwordlabel">Password:</string>
+    <string name="chatwithtext">Chat with:</string>
+    <string name="hostlabel">Host:</string>
+    <string name="portlabel">Port:</string>
+    <string name="servicelabel">Service:</string>
+    <string name="enterlabel">Enter</string>
+    <string name="registerlabel">Register</string>
+    <string name="s_enter_Click">enter_Click</string>
+    <string name="s_register_Click">register_Click</string>
+    <string name="hosthint">talk.google.com</string>
+    <string name="porthint">5222</string>
+    <string name="servicehint">gmail.com</string>
+    <string name="contactslabel">Contacts:</string>
+    <string name="presencelabel">Presence:</string>
+    <string name="addcontacthint">example@gmail.com</string>
+    <string name="successfulconnect">Successfully connected as:\n</string>
+    <string name="wronginput">You must enter all fields is correct!</string>
+    <string name="noethernet">No connection to the Internet</string>
+    <string name="norecipient">No Recipient or wrong JID</string>
+    <string name="nomessage">Message can\'t be blank</string>
+    <string name="title_section1">Roster</string>
+    <string name="title_section2">Chat</string>
+    <string name="s_availabletochat">Available to chat</string>
+    <string name="s_online">Online</string>
+    <string name="s_busy">Busy</string>
+    <string name="s_away">Away</string>
+    <string name="s_unavailable">Unavailable</string>
+    <string name="s_offline">Offline</string>
+    <string name="r_main_text">Settings for available services:\n</string>
+    <string name="r_google_text">Google\n
+        https://accounts.google.com/SignUp\n
+		Settings default\n</string>
+    <string name="r_facebook_text">Facebook\n
+        https://www.facebook.com\n
+		JID: name@chat.facebook.com\n
+		Server/Host: chat.facebook.com\n</string>
+    <string name="r_livejournal_text">LiveJournal\n
+        https://www.livejournal.com/create\n
+        JID: name@livejournal.com\n
+		Server/Host: livejournal.com\n</string>
+    <string name="r_vk_text">VK:\n
+        http://vk.com\n
+        JID: name@vk.com\n
+		Server/Host: vk.com / vkmessenger.com\n</string>
+    <string name="r_yaonline_text">Yandex Online:\n
+        http://online.yandex.ru\n
+        JID: name@ya.ru\n
+		Server/Host: xmpp.yandex.ru\n</string>
+    <string name="r_qip_text">QIP\n
+        http://qip.ru/reg/register\n
+        JID: name@qip.ru\n
+		Server/Host: webim.qip.ru\n</string>
+    <string name="r_odnoklassniki_text">Odnoklassniki\n
+        http://odnoklassniki.ru\n
+        JID: name@odnoklassniki.ru\n
+		Server/Host: Odnoklassniki.ru / xmpp.odnoklassniki.ru</string>
+    <string name="empty"></string>
+    <string name="pdrostertitle">Loading..</string>
+    <string name="pdrostertext">Loading Roster List</string>
+    <string name="addeleteitem">Delete:\n</string>
+    <string name="adyes">Yes</string>
+    <string name="adno">No</string>
+    <string name="contactaddsuccesfull">Contact added!</string>
+    <string name="nocontactadd">Enter JID please!</string>
+    <string name="adexitmenu">Are you sure you want to quit?</string>
+    <string name="newmsgfrom">Message from:</string>
+    <string name="pdconnectiontext">Connecting</string>
+</resources>

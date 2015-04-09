@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_selector"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/cmr_jid"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:paddingBottom="1dp"
+        android:textColor="@android:color/black"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/cmr_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:autoLink="none"
+        android:textColor="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/cmr_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@id/cmr_jid"
+        android:autoLink="web"
+        android:singleLine="false"
+        android:textColor="@android:color/black" />
+
+    <ImageView
+        android:id="@+id/cmr_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/cmr_text"
+        android:adjustViewBounds="true"
+        android:contentDescription="@string/app_name"
+        android:visibility="gone" />
+
+</RelativeLayout>

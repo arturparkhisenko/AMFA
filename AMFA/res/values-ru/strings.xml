@@ -1,0 +1,78 @@
+<resources>
+
+    <string name="app_name">AMFA</string>
+    <string name="welcome">Добро пожаловать :)</string>
+    <string name="title_activity_main">AMFA</string>
+    <string name="sendhint">Введите сообщение</string>
+    <string name="settingslabel">Настройки</string>
+    <string name="useridlabel">Логин:</string>
+    <string name="useridhint">example@gmail.com</string>
+    <string name="passwordlabel">Пароль:</string>
+    <string name="chatwithtext">Собеседник:</string>
+    <string name="hostlabel">Сервер:</string>
+    <string name="portlabel">Порт:</string>
+    <string name="servicelabel">Сервис:</string>
+    <string name="enterlabel">Войти</string>
+    <string name="registerlabel">Новый Аккаунт</string>
+    <string name="s_enter_Click">enter_Click</string>
+    <string name="s_register_Click">register_Click</string>
+    <string name="hosthint">talk.google.com</string>
+    <string name="porthint">5222</string>
+    <string name="servicehint">gmail.com</string>
+    <string name="contactslabel">Контакты:</string>
+    <string name="presencelabel">Состояние:</string>
+    <string name="addcontacthint">example@gmail.com</string>
+    <string name="successfulconnect">Успешно подключено как:\n</string>
+    <string name="wronginput">Необходимо ввести все данные правильно!</string>
+    <string name="noethernet">Интернета нет</string>
+    <string name="norecipient">Адресат не указан или не существует</string>
+    <string name="nomessage">Сообщение не может быть пустым</string>
+    <string name="title_section1">Контакты</string>
+    <string name="title_section2">Чат</string>
+    <string name="s_availabletochat">Готов поболтать</string>
+    <string name="s_online">Онлайн</string>
+    <string name="s_busy">Занят</string>
+    <string name="s_away">Отошел</string>
+    <string name="s_unavailable">Недоступен</string>
+    <string name="s_offline">Оффлайн</string>
+    <string name="r_main_text">Настройки для разных сервисов:\n</string>
+    <string name="r_google_text">Google\n
+        https://accounts.google.com/SignUp\n
+		Настройки по умолчанию\n</string>
+    <string name="r_facebook_text">Facebook\n
+        https://www.facebook.com\n
+		JID: имя@chat.facebook.com\n
+		Сервер/Сервис: chat.facebook.com\n</string>
+    <string name="r_livejournal_text">LiveJournal\n
+        https://www.livejournal.com/create\n
+        JID: имя@livejournal.com\n
+		Сервер/Сервис: livejournal.com\n</string>
+    <string name="r_vk_text">VK:\n
+        http://vk.com\n
+        JID: имя@vk.com\n
+		Сервер/Сервис: vk.com / vkmessenger.com\n</string>
+    <string name="r_yaonline_text">Yandex Online:\n
+        http://online.yandex.ru\n
+        JID: имя@ya.ru\n
+		Сервер/Сервис: xmpp.yandex.ru\n</string>
+    <string name="r_qip_text">QIP\n
+        http://qip.ru/reg/register\n
+        JID: имя@qip.ru\n
+		Сервер/Сервис: webim.qip.ru\n</string>
+    <string name="r_odnoklassniki_text">Odnoklassniki\n
+        http://odnoklassniki.ru\n
+        JID: имя@odnoklassniki.ru\n
+		Сервер/Сервис: Odnoklassniki.ru / xmpp.odnoklassniki.ru\n</string>
+    <string name="empty"></string>
+    <string name="pdrostertitle">Загрузка..</string>
+    <string name="pdrostertext">Загружаем список контактов</string>
+    <string name="addeleteitem">Удалить:\n</string>
+    <string name="adyes">Да</string>
+    <string name="adno">Нет</string>
+    <string name="contactaddsuccesfull">Контакт добавлен!</string>
+    <string name="nocontactadd">Введите адрес/имя контакта пожалуйста!</string>
+    <string name="adexitmenu">Вы уверены, что хотите выйти?</string>
+    <string name="newmsgfrom">Сообщение от:</string>
+    <string name="pdconnectiontext">Подключение</string>
+
+</resources>

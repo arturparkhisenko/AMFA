@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/10397079/android-file-transfer-not-working-via-xmpp-and-openfire
+http://stackoverflow.com/questions/13119371/sending-files-with-asmack-or-any-alternatives
+http://stackoverflow.com/questions/7443707/android-file-transfer-using-smack
+http://stackoverflow.com/questions/11342920/keep-xmpp-connectionusing-smack-alive-throughout-application
+http://stackoverflow.com/questions/5859928/offline-message-using-smack-in-android

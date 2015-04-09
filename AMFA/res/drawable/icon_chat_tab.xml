@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Когда выделено, используем темную иконку -->
+    <item android:drawable="@drawable/ic_action_messages_black"
+          android:state_selected="true" />
+    <!-- Когда не выделено, используем светлую иконку-->
+    <item android:drawable="@drawable/ic_action_messages_white" />
+</selector>

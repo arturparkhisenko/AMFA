@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp" >
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="3dip"
+        android:scrollbars="vertical" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/r_main_text"
+            android:textAppearance="@android:style/TextAppearance.Medium" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:drawableLeft="@drawable/googleicon"
+            android:text="@string/r_google_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:drawableLeft="@drawable/facebookicon"
+            android:text="@string/r_facebook_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:drawableLeft="@drawable/livejournalicon"
+            android:text="@string/r_livejournal_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:drawableLeft="@drawable/vkicon"
+            android:text="@string/r_vk_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:drawableLeft="@drawable/yaonlineicon"
+            android:text="@string/r_yaonline_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:drawableLeft="@drawable/qipicon"
+            android:text="@string/r_qip_text" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autoLink="web"
+            android:drawableLeft="@drawable/odnoklassnikiicon"
+            android:text="@string/r_odnoklassniki_text" />
+    </LinearLayout>
+
+</ScrollView>

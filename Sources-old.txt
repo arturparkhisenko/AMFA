@@ -1,0 +1,26 @@
+Windows Communication Foundation @ ¬икипеди¤ свободна¤ энциклопеди¤.  URL: http://ru.wikipedia.org/wiki/Windows_Communication_Foundation
+ѕлатформа Microsoft BizTalk Server объедин¤ет системы внутри и между организаци¤ми @ Microsoft BizTalk Server: обзор продукта.  URL: http://www.microsoft.com/biztalk/ru/ru/overview.aspx
+ ак работает BizTalk Server @ Microsoft BizTalk Server: обмен сообщени¤ми.  URL: http://www.microsoft.com/biztalk/ru/ru/messaging.aspx
+Bopup Communication Server @ Bopup IM Ц ѕрограммное обеспечение дл¤ эффективного обмена мгновенными сообщени¤ми и документами.  URL: http://www.bopup.ru/
+—истема мгновенного обмена сообщен¤ми @ ¬икипеди¤ свободна¤ энциклопеди¤.  URL: http://ru.wikipedia.org/wiki/—истема_мгновенного_обмена_сообщени¤ми/
+ќбмен сообщени¤ми в платформе .NET Compact Framework @ ќбмен сообщени¤ми в платформе .NET Compact Framework.  URL: http://msdn.microsoft.com/ru-ru/library/bb397842(v=vs.90).aspx
+Ћандэ ƒмитрий, 2P2 Ц по секрету всему светуЕ ќ пиринговых сет¤х [“екст]/ƒмитрий Ћандэ // —ети и бизнес - 2008. - є2 (39) Ц —. 104-110.
+ќдноранговые сети @ ¬икипеди¤ свободна¤ энциклопеди¤.  URL: http://en.wikipedia.org/wiki/Peer-to-peer
+ѕреимущества P2P сетей @ ∆урнал о компьютерных сет¤х и телекоммуникационных технологи¤х —ети и системы св¤зи.   URL: http://www.ccc.ru/magazine/depot/06_11/read.html?0302
+√уркин ёрий николаевич, —еменов ёрий јлексеевич, ќсновные у¤звимые стороны P2P @ ‘айлообменные сети P2P: основные принципы, протоколы, безопасность.  URL: http://www.p2pinside.ru/story/87.html
+ћ. “им ƒжонс, «накомство с протоколом XMPP @ «накомство с протоколом XMPP.  URL: http://www.ibm.com/developerworks/ru/library/x-xmppintro/
+Eclipse @ ¬икипеди¤ свободна¤ энциклопеди¤.  URL: http://en.wikipedia.org/wiki/Eclipse_(software)
+IntelliJ IDEA @ ¬икипеди¤ свободна¤ энциклопеди¤.  URL: http://ru.wikipedia.org/wiki/IntelliJ_IDEA
+Android Java IDE @ Google Play.  URL: https://play.google.com/store/apps/details?id=com.aide.ui&hl=ru
+ARM Development Studio 5 @ ARM Development Studio 5 (DS-5) Ц ARM.  URL: http://www.arm.com/products/tools/software-tools/ds-5/index.php
+Dashboards @ Android Developers.  URL: http://developer.android.com/about/dashboards/index.html
+ѕопул¤рные мировые сервисы с Jabber @ ћир Jabber.  URL: http://jabberworld.info/ѕопул¤рные_мировые_сервисы_с_Jabber/
+Android Supported Media Formats @ Android Developers.  URL:  http://developer.android.com/guide/appendix/media-formats.html
+Supporting Multiple Screens @ Android Developers.  URL: http://developer.android.com/guide/practices/screens_support.html
+–азработка приложений, поддерживающих разные разрешени¤ экрана @ —правка - Google Play дл¤ разработчика.  URL: http://support.google.com/googleplay/android-developer/bin/answer.py?hl=ru&answer=165590
+Android Asset Studio @ Android Asset Studio.  URL: http://android-ui-utils.googlecode.com/hg/asset-studio/dist/index.html
+User Interface Guidelines @ Android Developers.  URL: http://developer.android.com/guide/practices/ui_guidelines/index.html
+Support Library @ Android Developers.  URL: http://developer.android.com/tools/extras/support-library.html
+Smack API @ Ignite Realtime: Smack API.  URL: http://www.igniterealtime.org/projects/smack/
+
+Android operating system @ Android Open Source.  URL: http://source.android.com/
